@@ -1,3 +1,4 @@
-# PlatformName
+# Etee
 
-The PlatformName platform components for the [XRTK - Mixed Reality Toolkit](https://github.com/XRTK/XRTK-Core).
+The Etee platform components for the [XRTK - Mixed Reality Toolkit](https://github.com/XRTK/XRTK-Core).
+
