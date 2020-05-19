@@ -64,7 +64,5 @@ artifacts/
 ThirdParty/
 ThirdParty.meta
 --Version/
-XRTK.Etee/Assets/Etee/Profiles
-XRTK.Etee/Assets/Etee/Profiles.meta
-
 XRTK.Etee/Assets/XRTK.Generated/Etee/Profiles
+XRTK.Etee/Assets/XRTK.Generated/Etee/Profiles.meta
